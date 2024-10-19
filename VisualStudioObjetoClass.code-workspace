@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Univalle 3 Vale/Base de Datos II/VisualStudioObjetoClass"
+		},
+		{
+			"path": "../../../../Univalle 3 Vale/Cálculo III/Cálculo Numérico"
+		},
+		{
+			"path": "../../../../Univalle 3 Vale/Progra Web/JAVASCRIPT"
+		},
+		{
+			"path": "../../../../Univalle 3 Vale/Base de Datos II/VisualStudioMongo"
+		},
+		{
+			"path": "../../../Dirección Financiera/Yahoo Finance"
+		},
+		{
+			"path": "../../ProyectiGit"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JAVASCRIPT"
+	}
+}
